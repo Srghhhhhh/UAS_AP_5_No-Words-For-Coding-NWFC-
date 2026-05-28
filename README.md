@@ -17,6 +17,9 @@ Di awal program, petugas memasukkan nama dan ID. Setelah itu, program menampilka
 - [Game Tebak Negara](https://github.com/Srghhhhhh/UAS_AP_5_No-Words-For-Coding-NWFC-/tree/main/Game%20Tebak%20Negara)🚩
   
   Di game Tebak negara ini, pemain harus menebak negara yang dimaksud oleh program secara benar. Nama negara akan ditampilkan dengan beberapa huruf telah dihilangkan, sehingga membuat permainan menantang. Apabila berhasil menebak dengan benar, poin akan ditambah satu, namun jika pemain salah menebak skor akan tetap. Permainan akan terus berlanjut selama pemain setuju untuk melanjutkannya (Endless mode).
+
+- [Minesweeper++](https://github.com/Srghhhhhh/UAS_AP_5_No-Words-For-Coding-NWFC-/tree/main/Minesweeper%2B%2B)💣
+  Permainan di mana pemain harus menemukan dan menandai semua bom yang tersembunyi di dalam papan. Pemain dapat membuka kotak atau menandai kotak yang dicurigai sebagai bom. Jika membuka kotak berisi bom, permainan langsung berakhir. Pemain dinyatakan menang hanya jika semua bom berhasil ditandai dengan tepat tanpa satupun salah menandai kotak yang aman.
 # Screenshot Hasil Program
   Berikut link hasil dokumentasi setiap program:
   [LINK](https://drive.google.com/drive/folders/1jUOc6CprO-4V83SV7bT8npfLz0TxXLKq)
